@@ -1,0 +1,10 @@
+# IntelliJ workspace
+.idea/
+*.iml
+
+# MacOS file
+.DS_Store
+
+# generated files
+out/
+
